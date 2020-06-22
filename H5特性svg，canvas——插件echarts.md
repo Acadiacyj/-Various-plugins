@@ -50,7 +50,7 @@ https://www.runoob.com/echarts
 
 3.挂载插件
 
-4.绘制图标
+4.绘制图表
 
 
 参考文献：w3school，runoob，echarts
